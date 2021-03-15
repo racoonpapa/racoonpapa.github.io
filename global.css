@@ -6,7 +6,7 @@
 body {
 	width: 100%;
 	background-color: #f5f5f5;
-	font-family: "Apple SD Gothic Neo", "Malgun Gothic", "맑은 고딕", "돋움",
-		dotum, sans-serif;
-	/* background-color: #f7f4f0; */
+	line-height: 22px;
+	font-family: HelveticaNeue, Helvetica Neue, helvetica, AppleSDGothicNeo, arial, malgun gothic, sans-serif, Meiryo;
+	letter-spacing: 0em;
 }
